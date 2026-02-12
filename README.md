@@ -1,4 +1,4 @@
-使用npx nativefier --name "WebPPlayer" R:\download\Web2ExeWin-CMD\webp播放器.html命令构建
+使用`npx nativefier --name "WebPPlayer" R:\download\Web2ExeWin-CMD\webp播放器.html`命令构建
 
 按着shift可以把文件放到末尾
 
